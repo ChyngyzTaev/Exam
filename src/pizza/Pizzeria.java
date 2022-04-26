@@ -2,7 +2,7 @@ package pizza;
 
 import java.util.Scanner;
 
-public class PizzaStore {
+public class Pizzeria {
     Scanner scanner = new Scanner(System.in);
     private LaFinta[] laFinta;
     private Margarita[] margarita;
